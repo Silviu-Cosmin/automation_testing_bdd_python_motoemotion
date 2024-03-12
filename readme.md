@@ -6,10 +6,10 @@
 -   Tags that separate different tests (@T1, @T2, etc)
 -   Use of multiple selectors
 -   The code is structured in folders for **features, pages** and **steps**
--   The tests were made on the www.bikermag.ro website and consists of:\
+-   The tests were made on the www.motoemotion.ro website and consists of:\
         - @T1 - Scenario outline that tests the login with different invalid passwords\
         - @T2 - Scenario that tests the login with valid password\
-        - @T4 - Scenario that tests searching for a product in the search bar
+        - @T3 - Scenario that tests searching for a product in the search bar
 
 ---
 ### Installing/cloning the project:
